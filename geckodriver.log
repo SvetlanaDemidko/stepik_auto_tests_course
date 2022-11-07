@@ -1,0 +1,14 @@
+1661641101570	geckodriver	INFO	Listening on 127.0.0.1:54996
+1661641142394	geckodriver	INFO	Listening on 127.0.0.1:55052
+1661641145722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8MvFJJ"
+1661641147377	Marionette	INFO	Marionette enabled
+1661641147385	Marionette	INFO	Listening on port 55067
+WebDriver BiDi listening on ws://localhost:55053
+Read port: 55067
+1661641147862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8MvFJJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55053/devtools/browser/5c8686c4-624f-4c9c-8f7e-00d171d3819f
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1661641179729	Marionette	INFO	Stopped listening on port 55067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
